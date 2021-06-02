@@ -1,0 +1,5 @@
+Finished reading chapter 13.
+Determined the possible projects that I want to work on. Reactable, treesitter. - treesitter.
+Reconfiged github to use gh instead of hub, since hub is deprecated.
+Reviewed the previous code, which makes a lot more sense now.
+Have read dna paper.
