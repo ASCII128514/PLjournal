@@ -1,0 +1,4 @@
+Looked at the tutorial of tree sitter and tested the example they gave. (in C).
+Read stevendiehl webpage of transformer
+Installed cabal and stack.
+
