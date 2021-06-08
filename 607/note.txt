@@ -1,0 +1,6 @@
+batch system, LR parsing, abstract parse dag, parse tree, GLR algorithm, augmented grammar, Lr parsing
+
+
+need to show parse tree and LR algorithms.
+
+front end/ backend

@@ -1,0 +1,3 @@
+watched LR parsing and other parsing tutorials on youtube.
+Started digest one of the literature, but have to learn the parsing before going any further.
+Checked the lambda calculus part out on wikipedia.
