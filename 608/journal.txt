@@ -1,0 +1,2 @@
+Finished watching parsing algorithms,
+finished the paper on incremental non-deterministic parsing

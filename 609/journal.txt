@@ -1,0 +1,3 @@
+Checked some of the functions that provided by Tree sitter and discovered that I have to look at the c code
+start check the code of TS, starting with api.h, which is well documented.
+started to think about the abstract we have to write.

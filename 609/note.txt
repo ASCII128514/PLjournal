@@ -1,0 +1,8 @@
+importance of incremental parsing -> time saving. incremental makes compile time faster
+
+problem: We do not know how to determine the end of change in the file.
+
+possible solution: localized non-deterministic change
+
+
+need to check ts_parser_parse
