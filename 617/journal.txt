@@ -1,0 +1,2 @@
+successfully have one working example of tree-sitter
+explored the c functions that are ported to haskell
