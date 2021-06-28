@@ -1,0 +1,2 @@
+Located the C code for matching queries. It work for symbols that the synthesised program didn't have. For example, "number" is not found in "[null]". But when actually finding null, it returns true but no match getting acutally returned.
+
