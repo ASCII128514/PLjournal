@@ -1,0 +1,3 @@
+Still trying to find where my bridge went wrong.
+Unified all python versions in my mac so that I can actually pip install tree-sitter
+found an unmerged branch of tree-sitter that has query in it.
