@@ -1,0 +1,2 @@
+working on the parsec libarary to try to make rules for parsing s expressions
+changed the package.yaml such that it does not need local packages

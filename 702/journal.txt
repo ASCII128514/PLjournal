@@ -1,0 +1,1 @@
+helped Tae to install tree-sitter query version onto the remote server
